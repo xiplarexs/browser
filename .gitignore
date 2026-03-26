@@ -1,0 +1,12 @@
+.xipsoft_config
+*.env
+.env
+.env.local
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+*.log
+results.json
+.DS_Store
+Thumbs.db
+desktop.ini
